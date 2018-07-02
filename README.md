@@ -1,2 +1,2 @@
-# Things-I-learned-today
+# Things I learned today
 A simple list of programming topics
