@@ -2,5 +2,5 @@
 A simple list of programming topics
 
 ## 2 June 2018
-* Guard clause
+* [Guard clause](guard-clause.md)
 * Fluent interface
