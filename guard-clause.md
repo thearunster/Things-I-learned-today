@@ -15,7 +15,7 @@ For example ...
   }
   ```
   
-  ### Further reading
+  ## Further reading
   
   * [http://wiki.c2.com/?GuardClause](http://wiki.c2.com/?GuardClause)
   * [Medium article on guard clause](https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a)
