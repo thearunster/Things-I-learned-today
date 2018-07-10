@@ -8,7 +8,7 @@ It typically does one (or any or all) of the following:
 3. checks for trivial cases, and gets rid of them quickly.
 
 For example ...
-  ```
+  ```c#
   draw() {
     if (!isVisible()) return;
     ...
