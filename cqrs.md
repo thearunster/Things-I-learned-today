@@ -1,4 +1,4 @@
-# CQRS - Command Query Responsibility Segragation
+# CQRS - Command Query Responsibility Segregation
 
 CQRS is simply the creation of two objects where there was previously only one. The separation occurs based upon whether the methods are a command or a query (the same definition that is used by Meyer in Command and Query Separation, a command is any method that mutates state and a query is any method that returns a value).
 

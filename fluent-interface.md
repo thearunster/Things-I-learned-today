@@ -23,5 +23,5 @@ IEnumerable<string> query = translations
 	.Select  (t => t.Value.ToUpper());
   ```
   
-  ### Further reading
+  ## Further reading
   * [Wikipedia page on Fluent interface](https://en.wikipedia.org/wiki/Fluent_interface)
