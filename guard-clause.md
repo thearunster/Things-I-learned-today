@@ -8,14 +8,14 @@ It typically does one (or any or all) of the following:
 3. checks for trivial cases, and gets rid of them quickly.
 
 For example ...
-  ```
+  ```c#
   draw() {
     if (!isVisible()) return;
     ...
   }
   ```
   
-  ### Further reading
+  ## Further reading
   
   * [http://wiki.c2.com/?GuardClause](http://wiki.c2.com/?GuardClause)
   * [Medium article on guard clause](https://medium.com/@scadge/if-statements-design-guard-clauses-might-be-all-you-need-67219a1a981a)

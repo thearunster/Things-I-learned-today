@@ -6,7 +6,7 @@ For example,
 
 C# uses fluent programming extensively in LINQ to build queries using the standard query operators. The implementation is based on extension methods.
 
-```C#
+```c#
 var translations = new Dictionary<string, string>
                    {
                        {"cat", "chat"},
