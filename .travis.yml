@@ -2,5 +2,6 @@ deploy:
   provider: pages
   skip-cleanup: true
   keep-history: true
+  github-token: $key
   on:
     branch: master
