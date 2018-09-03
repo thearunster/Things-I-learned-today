@@ -24,3 +24,13 @@ CSS Grid
 
 ### Consensus
 * [ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f)
+
+
+## Architecture
+### MVC
+### MVVM
+### MVP
+### Onion/Hexagonal/Ports and Adaptors
+### Microservices
+
+## Angular Architecture
