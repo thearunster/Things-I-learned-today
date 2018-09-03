@@ -17,9 +17,10 @@ CSS Grid
 
 # Things I want to learn
 ## Blockchain
+### Basics
 * [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
-## Mining
+### Mining
 
-## Consensus
+### Consensus
 * [ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f)
