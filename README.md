@@ -16,7 +16,7 @@ CSS Grid
 
 
 # Things I want to learn
-## Blockchain
+1. ## Blockchain
 ### Basics
 * [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [WTF is The Blockchain?](https://hackernoon.com/wtf-is-the-blockchain-1da89ba19348)
@@ -26,11 +26,11 @@ CSS Grid
 * [ConsensusPedia: An Encyclopedia of 30 Consensus Algorithms](https://hackernoon.com/consensuspedia-an-encyclopedia-of-29-consensus-algorithms-e9c4b4b7d08f)
 
 
-## Architecture
+2. ## Architecture
 ### MVC
 ### MVVM
 ### MVP
 ### Onion/Hexagonal/Ports and Adaptors
 ### Microservices
 
-## Angular Architecture
+3. ## Angular Architecture
