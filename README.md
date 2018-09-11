@@ -33,7 +33,7 @@ CSS Grid
 ### MVVM
 ### MVP
 ### Onion
-* Onion Architecture - [Part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/), [Part 2](http://jeffreypalermo.com/blog/the-onion-architecture-part-2/), [Part 3](http://jeffreypalermo.com/blog/the-onion-architecture-part-3/)
+* Onion Architecture - [Part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/), [Part 2](http://jeffreypalermo.com/blog/the-onion-architecture-part-2/), [Part 3](http://jeffreypalermo.com/blog/the-onion-architecture-part-3/), [Part 4](https://jeffreypalermo.com/2013/08/onion-architecture-part-4-after-four-years/)
 ### Hexagonal/Ports and Adaptors
 ### Microservices
 
