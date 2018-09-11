@@ -35,3 +35,6 @@ CSS Grid
 ### Microservices
 
 ## 3. Angular Architecture
+* [Official Angular Style Guide](https://angular.io/guide/styleguide)
+* [Angular App Structuring Guidelines](https://johnpapa.net/angular-app-structuring-guidelines/)
+* [Rangle.io Angular 2 Guidelines](https://github.com/rangle/angular2-guidelines)
