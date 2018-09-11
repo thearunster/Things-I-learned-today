@@ -28,6 +28,7 @@ CSS Grid
 
 
 ## 2. Architecture
+* [GUI Architectures](https://www.martinfowler.com/eaaDev/uiArchs.html)
 ### MVC
 ### MVVM
 ### MVP
