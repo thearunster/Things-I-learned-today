@@ -35,6 +35,7 @@ CSS Grid
 ### Onion
 * Onion Architecture - [Part 1](http://jeffreypalermo.com/blog/the-onion-architecture-part-1/), [Part 2](http://jeffreypalermo.com/blog/the-onion-architecture-part-2/), [Part 3](http://jeffreypalermo.com/blog/the-onion-architecture-part-3/), [Part 4](https://jeffreypalermo.com/2013/08/onion-architecture-part-4-after-four-years/)
 * [http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/](http://blog.ploeh.dk/2013/12/03/layers-onions-ports-adapters-its-all-the-same/)
+* [https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 ### Hexagonal/Ports and Adaptors
 ### Microservices
 * [Microservices by Martin Fowler](https://martinfowler.com/articles/microservices.html)
